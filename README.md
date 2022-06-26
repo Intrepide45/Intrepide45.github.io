@@ -1,6 +1,7 @@
 ## Ma veille technologique 
 
 You can use the [editor on GitHub](https://github.com/Intrepide45/Intrepide45.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Technologies Font-end web et Mobile (Langage de programmation, framework, librairie)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
